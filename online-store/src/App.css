@@ -2,3 +2,7 @@ body{
     font-family: 'Zen Loop';
     padding: 20px 80px;
 }
+a {
+    text-decoration: none;
+    color:black;
+}
