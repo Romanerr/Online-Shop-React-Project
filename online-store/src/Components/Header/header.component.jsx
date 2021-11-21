@@ -1,5 +1,4 @@
 import React from 'react';
-import cartIconComponent  from '../cart-icon/cart-icon.component';
 import CartIcon from '../cart-icon/cart-icon.component';
 import CartDropdown from '../cart-dropdown/cart-dropdown.component';
 import { Link } from 'react-router-dom';
